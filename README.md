@@ -9,3 +9,7 @@ This project is aimed to automatically tell between human and machine mouse traj
 You can find the general description of MouseCapture project on http://bdc.saikr.com/c/cql/34541
 
 You can also find a slide named 'General Description of CAPTCHA' in this folder.
+
+Contact me at any time if you have any question: Lanqing Yang 
+Mail: yanglanqing@sjtu.edu.cn 
+Tel: 18200462008

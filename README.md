@@ -15,10 +15,16 @@ Mail: yanglanqing@sjtu.edu.cn
 Tel: 18200462008
 
 ## Files
-data                          contains train and test data<br /> 
--dsjtzs_txfz_training.txt     train data (3000 samples)<br /> 
--dsjtzs_txfz_test1.txt        one part of test data<br />  
--dsjtzs_txfz_testB.txt        another part of test data<br /> 
-src                            contains useful examples to explore and analyse the data<br /> 
--data_explore.py              example to visualize the data<br /> 
--GBDT.py                      example to use Gradient Boosting Decision Tree to do the project<br /> 
+data folder contains train and test data
+
+-1- dsjtzs_txfz_training.txt     train data (3000 samples)
+
+-2- dsjtzs_txfz_test1.txt        one part of test data
+
+-3- dsjtzs_txfz_testB.txt        another part of test data
+
+src folder contains useful examples to explore and analyse the data
+
+-1- data_explore.py              example to visualize the data 
+
+-2- GBDT.py                      example to use Gradient Boosting Decision Tree to do the project
